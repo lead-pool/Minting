@@ -1,0 +1,4 @@
+Filename,name,Trait 1,Trait 2,Trait 3,Trait 4,Trait 5
+MultiCNFTsAirdrop1,Multi CNFTs Airdrop #1,NFT Maker Test,Blue,Green,Yellow,Gold
+MultiCNFTsAirdrop2,Multi CNFTs Airdrop #2,NFT Maker Test,None,None,None,None
+MultiCNFTsAirdrop3,Multi CNFTs Airdrop #3,NFT Maker Test,Red,Blue,Yellow,Purple
